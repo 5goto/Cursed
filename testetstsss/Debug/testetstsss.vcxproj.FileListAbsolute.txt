@@ -1,0 +1,4 @@
+D:\2 курс\kurs\testetstsss\Debug\testetstsss.vcxproj.AssemblyReference.cache
+D:\2 курс\kurs\testetstsss\Debug\testetstsss.Form1.resources
+D:\2 курс\kurs\testetstsss\Debug\testetstsss.vcxproj.GenerateResource.cache
+D:\2 курс\kurs\testetstsss\Debug\testetstsss.exe

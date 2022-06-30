@@ -1,0 +1,39 @@
+﻿  CppCLR_WinformsProjekt.cpp
+D:\2 курс\kurs\testetstsss\hotel_main_classes.h(16,42): warning C4552: "+": результат выражения не используется
+D:\2 курс\kurs\testetstsss\my_list.h(48,1): warning C4099: CustomVector<T>::Node: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+D:\2 курс\kurs\testetstsss\my_list.h(28): message : см. объявление "CustomVector<T>::Node"
+D:\2 курс\kurs\testetstsss\my_list.h(86): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "CustomVector<T>::NodeIterator<Iter>"
+D:\2 курс\kurs\testetstsss\my_list.h(278): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "CustomVector<T>"
+D:\2 курс\kurs\testetstsss\my_list.h(48,1): warning C4099: CustomVector<T>::Node: имя типа, ранее отображенное с помощью "class", теперь отображено с помощью "struct"
+          with
+          [
+              T=Сleaning *
+          ]
+D:\2 курс\kurs\testetstsss\my_list.h(28): message : см. объявление "CustomVector<T>::Node"
+          with
+          [
+              T=Сleaning *
+          ]
+D:\2 курс\kurs\testetstsss\main_interface.h(88): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "CustomVector<T>::NodeIterator<CustomVector<T>::Node>"
+          with
+          [
+              T=Сleaning *
+          ]
+D:\2 курс\kurs\testetstsss\Form1.h(510,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\2 курс\kurs\testetstsss\Form1.h(527,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\2 курс\kurs\testetstsss\Form1.h(537,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\2 курс\kurs\testetstsss\my_list.h(238,13): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\2 курс\kurs\testetstsss\my_list.h(237): message : во время компиляции функции-члена класс шаблон "T &CustomVector<T>::at(size_t)"
+          with
+          [
+              T=Сleaning *
+          ]
+D:\2 курс\kurs\testetstsss\main_interface.h(88): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "CustomVector<T>"
+          with
+          [
+              T=Сleaning *
+          ]
+D:\2 курс\kurs\testetstsss\my_list.h(85): warning C4715: CustomVector<Сleaning *>::NodeIterator<CustomVector<Сleaning *>::Node>::operator++: значение возвращается не при всех путях выполнения
+D:\2 курс\kurs\testetstsss\tree_class.h(184): warning C4172: возвращение адреса локальной или временной переменной : result
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  testetstsss.vcxproj -> D:\2 курс\kurs\testetstsss\Debug\testetstsss.exe
